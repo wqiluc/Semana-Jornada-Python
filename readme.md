@@ -215,7 +215,17 @@ Python Dev Starlit/
 <p align="center">
   🔗👇 Repositório:<br>
   <a href="https://github.com/wqiluc/Python-Dev-Streamlit" target="_blank">
-    Veja o Projeto 4 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align: middle;"/>
+    Veja o Projeto 4<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align: middle;"/>
   </a>
 </p>
+
+<h2 align="center">🏆 Certificado Oficial — Jornada Python 🐍🎓</h2>
+
+<p align="center">
+  Este certificado reconhece a conclusão da <strong>Jornada Python</strong> da <strong>Hashtag Treinamentos</strong>, 
+  um workshop prático que desenvolveu habilidades em: Automação, Análise de Dados, Machine Learning e Criação de aplicações em Python.<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" style="vertical-align: middle;"/>
+</p>
+
+<div align="center">
+  <img src="img/Certificado_JornadaPython.jpeg" alt="Certificado Jornada Python" height="450"/>
+</div>
