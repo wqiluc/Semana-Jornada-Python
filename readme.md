@@ -51,7 +51,8 @@
 
 <hr>
 
-<h2 align="center">📅 Projeto 1 — Automação de Cadastro de Produtos<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align: middle;"/>🛒🛍️</h2>
+<h2 align="center">📅 Projeto 1 — Automação de Cadastro de Produtos<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align: middle;"/>🛒🛍️</h2>
 
 <p align="center">
 Automatiza o cadastro de produtos em um sistema web, integrando planilhas CSV e simulando ações humanas no navegador com PyAutoGUI. 🤖✅📦💻
