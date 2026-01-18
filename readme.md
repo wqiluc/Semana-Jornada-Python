@@ -73,6 +73,7 @@ Python Powerup - Automação Cadastro de Produtos/
 ├── Produtos.csv   
 ├── readme.md
 └── license (MIT)
+└── .gitignore 
 </pre>
 
 <h3 align="center">⛏️💻 Ferramentas e Tecnologias:</h3>
@@ -108,6 +109,7 @@ Análise de dados, tratamento de informações e geração de insights, utilizan
 Python Insights/
 ├── license (MIT)
 ├── readme.md
+├── .gitignore
 ├── projeto/
 │   ├── cancelamentos.csv
 │   ├── data_analysis.ipynb
@@ -150,6 +152,7 @@ Criação de modelos de Inteligência Artificial e Machine Learning, utilizando 
 Projeto Python IA/
 ├── license (MIT)
 ├── readme.md
+├── .gitignore
 ├── projeto/
 │   ├── dados_clientes.csv
 │   ├── ml_model.ipynb
@@ -191,6 +194,7 @@ Chatbot Inteligente com interface Streamlit e integração com OpenAI.🤖💬�
 <pre>
 Python Dev Starlit/
 │   ├── license (MIT) 📜
+│   ├── .gitignore<img src="https://skillicons.dev/icons?i=git" width="15"/>
 │   ├── readme.md <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="18" style="filter: brightness(0) invert(1);"/>
 │   ├── 🖼️ img/
 │   │   ├── Hashtag_logo.jpeg <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="18"/>
