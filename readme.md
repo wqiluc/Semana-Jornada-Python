@@ -58,7 +58,8 @@
 Automatiza o cadastro de produtos em um sistema web, integrando planilhas CSV e simulando ações humanas no navegador com PyAutoGUI. 🤖✅📦💻
 </p>
 
-<h3 align="center">📁 Estrutura do Projeto 1: <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h3>
+<h3 align="center">📁 Estrutura do Projeto 1:<br> 
+<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h3>
 <pre>
 Python Powerup - Automação Cadastro de Produtos/
 ├── img/
@@ -105,7 +106,8 @@ Python Powerup - Automação Cadastro de Produtos/
 Análise de dados, tratamento de informações e geração de insights, utilizando planilhas e bases de dados. 🐍📊📈
 </p>
 
-<h3 align="center">📁 Estrutura do Projeto 2: <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h3>
+<h3 align="center">📁 Estrutura do Projeto 2:<br> 
+<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h3>
 <pre>
 Python Insights/
 ├── license (MIT)
@@ -148,7 +150,8 @@ Python Insights/
 Criação de modelos de Inteligência Artificial e Machine Learning, utilizando bases de dados para treinamento e previsão. 🐍🤖📈
 </p>
 
-<h3 align="center">📁 Estrutura do Projeto 3: <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h3>
+<h3 align="center">📁 Estrutura do Projeto 3:<br> 
+<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h3>
 <pre>
 Projeto Python IA/
 ├── license (MIT)
@@ -191,14 +194,15 @@ Projeto Python IA/
 Chatbot Inteligente com interface Streamlit e integração com OpenAI.🤖💬📱
 </p>
 
-<h2 align="center">📁 Estrutura do Projeto 4: <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h2>
+<h2 align="center">📁 Estrutura do Projeto 4:<br> 
+<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=databricks&logoColor=white" style="vertical-align:middle; margin-left:5px;"/></h2>
 <pre>
 Python Dev Starlit/
-│   ├── license (MIT) 📜
+│   ├── license (MIT)📜
 │   ├── .gitignore<img src="https://skillicons.dev/icons?i=git" width="15"/>
-│   ├── readme.md <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="18" style="filter: brightness(0) invert(1);"/>
+│   ├── readme.md<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="18" style="filter: brightness(0) invert(1);"/>
 │   ├── 🖼️ img/
-│   │   ├── Hashtag_logo.jpeg <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="18"/>
+│   │   ├── Hashtag_logo.jpeg<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="18"/>
 │   │   └── Jornada Python logo4.jpeg <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="18"/>
 │   └── 📁 projeto/
 │       ├── chatbot.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" style="vertical-align: middle;"/>
