@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align: middle;"/>Jornada Python — Hashtag Treinamentos
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align: middle;">Jornada Python — Hashtag Treinamentos
 </h1>
 
 <p align="center">
